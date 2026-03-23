@@ -1,0 +1,12 @@
+{
+    "name": "Node.js CI para Axity",
+    "description": "Configuración estándar de compilación y tests para microservicios.",
+    "iconName": "nodejs-icon", 
+    "categories": [
+        "JavaScript",
+        "Node.js"
+    ],
+    "filePatterns": [
+        "package.json$" 
+    ]
+}
